@@ -1,12 +1,35 @@
-# React + Vite
+# Gerçek Menü 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**[Gerçek Menü](https://gercekmenu.com.tr)** — A social platform where users can share what they consumed at restaurants and cafes, including when, where, and how much they paid, along with photos and comments.
 
-Currently, two official plugins are available:
+...
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+Through this platform, users can:
+- Share restaurant prices with images and date information,
+- Compare different visits to the same place over time,
+- Contribute to public awareness against excessive price increases.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- User authentication and registration system
+- Restaurant-related posts including price, image, comment, location, and date
+- Post detail page displaying other entries for the same restaurant
+- Profile page where users can view their own posts
+
+## Technologies Used
+
+- React  
+- Tailwind CSS  
+- DaisyUI  
+- Formik & Yup  
+- Supabase  
+- React Query  
+
+## Live Demo
+
+🔗 [View the Project](https://gercekmenu.com.tr)
+
+## Note
+
+This project is still under development. New features are planned to be added in future versions.
