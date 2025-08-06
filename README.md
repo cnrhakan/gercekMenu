@@ -1,8 +1,6 @@
 # Gerçek Menü 
 
-**[Gerçek Menü](https://gercekmenu.com.tr)** — A social platform where users can share what they consumed at restaurants and cafes, including when, where, and how much they paid, along with photos and comments.
-
-...
+**[Gerçek Menü](https://gercekmenu.com.tr)** — A social platform where users can share what they consumed at restaurants and cafes, including when, where, and how much they paid, along with photos and comments
 
 
 Through this platform, users can:
