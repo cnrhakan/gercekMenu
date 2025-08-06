@@ -24,7 +24,7 @@ Through this platform, users can:
 - Supabase  
 - React Query  
 
-## Live Demo
+## Live 
 
 🔗 [View the Project](https://gercekmenu.com.tr)
 
